@@ -1,6 +1,6 @@
 # JSON
 
-![json-logo](https://github.com/MonkeyBuisness/alphabet/blob/master/.github/assets/json-logo.png)
+![json-logo](https://github.com/MonkeyBuisness/alphabet/raw/master/.github/assets/json-logo.png)
 
 Эта глава книги посвящена работе с форматом `JSON`.
 

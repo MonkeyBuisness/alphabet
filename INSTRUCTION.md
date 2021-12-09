@@ -12,7 +12,7 @@ TODO: add instruction
 
 Вот пример работы с ядром `Java Local`:
 
-![work-with-kernel-guide](https://github.com/MonkeyBuisness/alphabet/blob/master/.github/assets/work-with-kernel-guide.gif)
+![work-with-kernel-guide](https://github.com/MonkeyBuisness/alphabet/raw/master/.github/assets/work-with-kernel-guide.gif)
 
 В зависимости от главы, вам понадобится использовать различные ядра.
 
