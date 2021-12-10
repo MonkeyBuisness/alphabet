@@ -229,7 +229,7 @@ JavaScript Object Notation (далее `JSON`) - это один из (если 
      {
 	"name":   "Artsem Hutarau",
 	"link":   "https://github.com/MonkeyBuisness",
-	"avatar": "https://github.com/MonkeyBuisness/alphabet/blob/master/.github/assets/me.jpg",
+	"avatar": "https://github.com/MonkeyBuisness/alphabet/raw/master/.github/assets/me.jpg",
 	"about":  "Go developer, IT teacher"
      }
 ] -->
