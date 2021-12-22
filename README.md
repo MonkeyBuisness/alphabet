@@ -1,6 +1,6 @@
 # Alphabet
 
-![alphabet-logo](https://github.com/MonkeyBuisness/alphabet/blob/master/.github/assets/logo.png)
+![alphabet-logo](https://github.com/MonkeyBuisness/alphabet/raw/master/.github/assets/logo.png)
 
 **Alphabet** (**Алфавит**) - это интерактивная книга о современных технологиях и языках программирования.
 Основной материал этой книги написан на русском языке и рассчитан на русскоговорящую аудиторию.
@@ -21,6 +21,61 @@ $ git clone https://github.com/MonkeyBuisness/alphabet
 
 ## Оглавление
 
+- [JAVA CORE](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core)
+  - [Глава 1: Основы программирования на Java](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part1)
+    - Hello, world!
+    <!-- - Примитивные типы данных, комментарии -->
+    <!-- - Арифметические операции над примитивными типами. Явное и неявное преобразование типов -->
+    <!-- - Понятие алгоритма. Операторы ветвления. Логические операторы -->
+    <!-- - Побитовые операторы -->
+    <!-- - Операции присваивания и приоритет операций -->
+    <!-- - Практические задания -->
+  - [Глава 2: Работа с основными структурами данных](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part2)
+    <!-- - Массивы -->
+    <!-- - Циклы -->
+    <!-- - Методы. Использование рекурсии -->
+    <!-- - Понятие пакета, импорт пакетов. -->
+    <!-- - Практические задания -->
+  - [Глава 3: ООП в Java](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part3)
+    <!-- - Введение в ООП. Основные принципы -->
+    <!-- - Абстрактные классы и интерфейсы -->
+    <!-- - Статические поля классов -->
+    <!-- - Внутренние и вложенные классы -->
+    <!-- - Ссылочность -->
+    <!-- - Класс Object -->
+    <!-- - Лямбда-выражения -->
+    <!-- - Классы работы со строками: String, StringBuffer и StringBuilder. Форматирование строк -->
+    <!-- - Вспомогательные классы: Scanner, Math, Random, Date, Calendar, File -->
+    <!-- - Records -->
+    <!-- - Клонирование объектов -->
+    <!-- - Константы, ключевое слово `final` -->
+    <!-- - Классы-обёртки над примитивными типами -->
+    <!-- - Обобщения -->
+    <!-- - Перечисления -->
+    <!-- - Практические задания -->
+  - [Глава 4: Исключения](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part4)
+    <!-- - Обработка и генерация исключений -->
+    <!-- - Исключения: создание собственных классов-исключений -->
+    <!-- - Практические задания -->
+  - [Глава 5: Коллекции](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part5)
+    <!-- - Основные коллекции в Java -->
+    <!-- - Итераторы -->
+    <!-- - Практические задания -->
+  - [Глава 6: Потоковый ввод/вывод](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part6)
+    <!-- - Чтение и запись текстовых файлов -->
+    <!-- - Сериализация и десериализация объектов -->
+    <!-- - Практические задания -->
+  - [Глава 7: Многопоточное программирование](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part7)
+    <!-- - Создание и запуск потоков -->
+    <!-- - Синхронизация потоков, ключевое слово `synchronized` -->
+    <!-- - Взаимодействие потоков, обмен данными, семафоры -->
+    <!-- - Взаимные блокировки, ограничение доступа к общему ресурсу -->
+    <!-- - Практические задания -->
+  - [Глава 8: Stream API](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part8)
+    <!-- - Введение в Java Stream API -->
+    <!-- - Основные методы Stream API -->
+    <!-- - Практические задания -->
+  <!-- - Дополнительные материалы -->
 - [JSON](https://github.com/MonkeyBuisness/alphabet/blob/master/json)
   - История создания
   - Синтаксис и базовые правила
