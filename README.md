@@ -19,12 +19,20 @@
 $ git clone https://github.com/MonkeyBuisness/alphabet
 ```
 
+Откройте скачанную папку в IDE [VS CODE](https://code.visualstudio.com/) и приступайте к изучению.
+
+> **Примечание**: содержимое книги не окончательно, и будет меняться со временем. Чтобы всегда иметь последнюю актуальную версию, вам необходимо будет либо каждый раз скачивать архив с новой версией книги по [ссылке](https://github.com/MonkeyBuisness/alphabet/archive/refs/heads/master.zip), либо, открыв терминал и перейдя в папку с уже скачанной книгой, выполнить команду
+
+```console
+$ git pull origin master
+```
+
 ## Оглавление
 
 - [JAVA CORE](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core)
   - [Глава 1: Основы программирования на Java](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part1)
     - Hello, world!
-    <!-- - Примитивные типы данных, комментарии -->
+    - Примитивные типы данных, комментарии
     <!-- - Арифметические операции над примитивными типами. Явное и неявное преобразование типов -->
     <!-- - Понятие алгоритма. Операторы ветвления. Логические операторы -->
     <!-- - Побитовые операторы -->
@@ -84,7 +92,7 @@ $ git clone https://github.com/MonkeyBuisness/alphabet
 
 ## Лицензия
 
-[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
+[MIT](https://github.com/MonkeyBuisness/alphabet/blob/master/LICENSE)
 
 ## Примечания
 

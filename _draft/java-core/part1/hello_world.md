@@ -106,8 +106,6 @@ Java существенно облегчает создание надежног
 		}
 } -->
 
-<!-- br: -->
-
 ## Лицензия
 
 [MIT](https://github.com/MonkeyBuisness/alphabet/blob/master/LICENSE)
