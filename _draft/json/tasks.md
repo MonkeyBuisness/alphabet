@@ -82,6 +82,10 @@
 	}
 } -->
 
+## Лицензия
+
+[MIT](https://github.com/MonkeyBuisness/alphabet/blob/master/LICENSE)
+
 <!-- author:[
     {
 	    "name":   "Artsem Hutarau",

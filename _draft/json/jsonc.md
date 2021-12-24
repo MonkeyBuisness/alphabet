@@ -50,6 +50,14 @@
 
 Поэтому старайтесь никогда не указывать комметариев в JSON, либо делайте это с очень большой осторожностью.
 
+<!-- br: -->
+
+## Лицензия
+
+[MIT](https://github.com/MonkeyBuisness/alphabet/blob/master/LICENSE)
+
+<!-- br: -->
+
 ## Ссылки
 
 - [Альтернативные способы комментирования JSON](https://www.freecodecamp.org/news/json-comment-example-how-to-comment-in-json-files/)

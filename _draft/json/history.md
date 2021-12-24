@@ -213,7 +213,7 @@ JavaScript Object Notation (далее `JSON`) - это один из (если 
 
 ## Лицензия
 
-[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+[MIT](https://github.com/MonkeyBuisness/alphabet/blob/master/LICENSE)
 
 <!-- br: -->
 

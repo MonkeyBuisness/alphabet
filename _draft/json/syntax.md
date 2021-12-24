@@ -193,6 +193,14 @@
 ]
 ```
 
+<!-- br: -->
+
+## Лицензия
+
+[MIT](https://github.com/MonkeyBuisness/alphabet/blob/master/LICENSE)
+
+<!-- br: -->
+
 ## Ссылки
 
 - [Онлайн редактор для валидации и форматирования JSON](https://jsonformatter.curiousconcept.com/)
