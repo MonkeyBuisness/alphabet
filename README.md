@@ -83,7 +83,8 @@ $ git pull origin master
     <!-- - Введение в Java Stream API -->
     <!-- - Основные методы Stream API -->
     <!-- - Практические задания -->
-  <!-- - Дополнительные материалы -->
+  - [Глава 9: Дополнительные материалы](https://github.com/MonkeyBuisness/alphabet/blob/master/java-core/part8)
+  <!-- - Переменные среды и входные аргументы -->
 - [JSON](https://github.com/MonkeyBuisness/alphabet/blob/master/json)
   - История создания
   - Синтаксис и базовые правила
